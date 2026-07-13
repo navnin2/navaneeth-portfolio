@@ -1,0 +1,9 @@
+{
+  "name": "navaneeth-portfolio-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio with a free RAG-style chatbot (resume-as-context) powered by Groq",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
