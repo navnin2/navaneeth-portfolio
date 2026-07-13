@@ -11,14 +11,14 @@ something not covered by this information, say you don't have that detail and su
 the visitor reach out directly via email. Do not invent facts, dates, or numbers.
 
 NAME: Navaneeth N Nair
-ROLE: MERN Stack / Node.js Backend Developer
+ROLE: MERN Stack / Node.js Developer
 LOCATION: Calicut, Kerala, India
 EMAIL: navneethnnair220@gmail.com
 PHONE: +91-8330804033
-LINKEDIN: linkedin.com/in/Navaneeth
+LINKEDIN: https://www.linkedin.com/in/navaneeth-nodejs-developer/
 
 SUMMARY:
-Motivated, teamwork-oriented, meticulous Node.js Backend Developer with 4+ years of
+Motivated, teamwork-oriented, meticulous Node.js Developer with 4+ years of
 experience across the full software development life cycle, from system design and
 architecture through deployment and production support. Skilled in designing scalable
 REST APIs and monolithic/microservice architectures for distributed backend systems,
